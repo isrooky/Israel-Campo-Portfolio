@@ -10,6 +10,8 @@ portfolio projects created to demonstrate specific systems and skills.
 
 ---
 
+## Professional & Collaborative Projects
+
 ### Titanic: An Immersive Voyage
 **Type:** VR / Standalone immersive experience  
 **Client:** Fever  
@@ -74,7 +76,8 @@ portfolio projects created to demonstrate specific systems and skills.
 - Optimized performance and input for Android-based VR devices
 - Prepared the build for live demonstrations
 
-> Note: These projects were developed for internal events. A public build is not available; a private demo may be available upon request.
+> Note: These projects were developed for internal events.
+> A public build is not available; a private demo may be available upon request.
 
 ---
 
@@ -91,4 +94,43 @@ portfolio projects created to demonstrate specific systems and skills.
 - Optimized rendering and performance for museum installation hardware
 - Prepared and maintained the build for public exhibition
 
-> Note: This experience was developed for a museum installation. A public build is not available; a private build may be available upon request.
+> Note: This experience was developed for a museum installation.
+> A public build is not available; a private build may be available upon request.
+
+---
+
+## Technical Portfolio Projects
+
+### Unity Optimization Toolkit
+**Type:** Unity Editor Tools / Optimization Toolkit  
+**Repository:** https://github.com/isrooky/optimization-toolkit  
+
+A modular Unity package containing 20+ custom editor tools designed to
+accelerate optimization, cleanup, and content workflows in mid-to-large projects.
+
+**Highlights:**
+- Centralized editor hub with modular tools
+- Mesh, animation, image, scene, and validation utilities
+- Designed for repeatable, production-friendly optimization workflows
+- Optional FFmpeg integration for media processing
+
+---
+
+### VAT Mass Instancing System
+**Type:** Rendering / GPU Optimization / Shaders  
+**Repository:** https://github.com/isrooky/VAT-Mass-Instancing-System-for-Unity  
+
+A modular, GPU-driven crowd rendering system based on Vertex Animation Textures (VAT),
+designed to render large heterogeneous animated groups with minimal draw calls.
+
+**Highlights:**
+- Custom compute-shader-based VAT baking pipeline
+- GPU-based animation playback (no Animator or skinning at runtime)
+- Editor tools for painting heterogeneous crowds with visual and animation variation
+- Atlas-based material variation without increasing draw calls
+- Automatic batching into combined meshes with per-instance animation offsets
+
+---
+
+For any additional information, technical details, or private demos,
+feel free to get in touch.
