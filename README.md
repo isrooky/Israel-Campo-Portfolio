@@ -1,7 +1,8 @@
 # Unity Developer Portfolio – Israel Campo
 
 I am a Unity developer with experience working on collaborative projects,
-focused on gameplay systems, interaction, and immersive experiences (VR).
+focused on gameplay systems, interaction, and immersive experiences (VR),
+with strong expertise in performance optimization and Unity tooling.
 
 This repository serves as an entry point to my technical portfolio.
 Below is a selection of projects I have worked on, followed by technical
