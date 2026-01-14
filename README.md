@@ -132,5 +132,51 @@ designed to render large heterogeneous animated groups with minimal draw calls.
 
 ---
 
+## Personal & Playable Projects (itch.io)
+
+### Rock Bottom
+
+**Rock Bottom** is a small-scale 3D Unity platformer focused on player movement and core gameplay mechanics, developed in under one week for a game jam.
+
+Playable build:  
+https://israel-campo.itch.io/rock-bottom
+
+#### What I did:
+- Gameplay programming (C#)
+- Level design
+- Game flow (start, restart, win/lose states)
+
+
+### Ignacio
+
+**Ignacio** is a 3D platformer developed in Unity with dynamic lava mechanics and procedural level variation.
+
+Playable build:  
+https://israel-campo.itch.io/ignacio
+
+#### What I did:
+- Sole developer
+- Gameplay programming (C#)
+- Implemented dynamic health system with lava interactions
+- Procedural level and enemy placement
+- Combat mechanics (shooting + jumping)
+- Shop & upgrade systems
+
+
+### BOREDOOM
+
+**BOREDOOM** is a 2D platformer built in Unity with hand-drawn art and boss encounters, inspired by a child’s doodled imagination.
+
+Playable build:  
+https://4boolgames.itch.io/boredoom
+
+#### What I did
+- Sole developer
+- Gameplay programming (C#)
+- Player movement and controls
+- Enemy and boss mechanics
+- Level design
+- Integrating hand-drawn art style
+
 For any additional information, technical details, or private demos,
 feel free to get in touch.
