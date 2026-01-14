@@ -147,7 +147,10 @@ https://israel-campo.itch.io/rock-bottom
 - Game flow (start, restart, win/lose states)
 
 
-### Ignacio
+---
+
+
+### Ignacio 
 
 **Ignacio** is a 3D platformer developed in Unity with dynamic lava mechanics and procedural level variation.
 
@@ -161,6 +164,9 @@ https://israel-campo.itch.io/ignacio
 - Procedural level and enemy placement
 - Combat mechanics (shooting + jumping)
 - Shop & upgrade systems
+
+
+---
 
 
 ### BOREDOOM
@@ -177,6 +183,25 @@ https://4boolgames.itch.io/boredoom
 - Enemy and boss mechanics
 - Level design
 - Integrating hand-drawn art style
+
+
+---
+
+
+### Mucus Goals
+
+**Mucus Goals** is a 2D puzzle-platformer developed in Unity blending strategy and character control mechanics.
+
+Downloadable build:  
+https://4boolgames.itch.io/mucus-goals
+
+## 👤 What I did
+- Gameplay programming (C#)
+- NPC control mechanics
+- 2D puzzles and obstacle interactions
+- Level design and balancing
+- Game flow and progression systems
+
 
 For any additional information, technical details, or private demos,
 feel free to get in touch.
