@@ -134,6 +134,22 @@ designed to render large heterogeneous animated groups with minimal draw calls.
 
 ## Personal & Playable Projects (itch.io)
 
+### Modcord
+
+**Modcord** is a moderation simulator with roguelike elements where you create the rules of a server and enforce them by moderating users and issuing bans. Developed solo in under two days for a game jam.
+
+Playable build:  
+https://israel-campo.itch.io/modcord
+
+#### What I did:
+- Sole developer
+- Gameplay programming (C#)
+- Implemented multiple endings based on player decisions
+- Different relationship levels based on player actions
+- Dynamic server behavior (people joining, voice channels and custom message flow of messages)
+
+
+---
 ### Rock Bottom
 
 **Rock Bottom** is a small-scale 3D Unity platformer focused on player movement and core gameplay mechanics, developed in under one week for a game jam.
