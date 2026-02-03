@@ -133,7 +133,7 @@ designed to render large heterogeneous animated groups with minimal draw calls.
 ---
 
 ### Media Converter
-**Type:** Desktop Application / Media Processing / FFmpeg Integration
+**Type:** Desktop Application / Media Processing / FFmpeg Integration    
 **Repository:** https://github.com/isrooky/Media-Converter
 
 A lightweight Windows desktop application built on top of FFmpeg to perform common media processing tasks through a simple drag-and-drop interface.
