@@ -132,6 +132,28 @@ designed to render large heterogeneous animated groups with minimal draw calls.
 
 ---
 
+### Media Converter
+**Type:** Desktop Application / Media Processing / FFmpeg Integration
+**Repository:** https://github.com/isrooky/Media-Converter
+
+A lightweight Windows desktop application built on top of FFmpeg to perform common media processing tasks through a simple drag-and-drop interface.
+The tool is designed as a practical utility rather than a framework, focusing on usability, automation, and clean integration of FFmpeg workflows into a desktop environment.
+
+**Highlights:**
+- Drag & drop support for videos and images
+- Video conversion between common formats (MP4, MKV, AVI, WebM, etc.)
+- Video compression with multiple quality presets
+- Fast video cutting using FFmpeg stream copy
+- Audio extraction to multiple formats (MP3, AAC, WAV, FLAC, Opus, OGG)
+- Frame extraction at arbitrary timestamps
+- Image format conversion
+- RGB / Alpha channel extraction from images
+- Color key removal to generate transparent PNGs
+- Automatic FFmpeg extraction from compressed binaries on first use
+- Portable application (no installer required)
+
+---
+
 ## Personal & Playable Projects (itch.io)
 
 ### Modcord
